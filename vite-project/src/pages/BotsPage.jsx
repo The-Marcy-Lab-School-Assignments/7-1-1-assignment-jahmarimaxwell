@@ -16,4 +16,4 @@ const BotPage = () => {
     )
 }
 
-export default BotPage
+export default BotPage;

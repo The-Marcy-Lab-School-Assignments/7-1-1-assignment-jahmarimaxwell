@@ -19,4 +19,4 @@ const BotsList = ({ botTypeFilter }) => {
     )
 }
 
-export default BotsList
+export default BotsList;
